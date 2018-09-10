@@ -29,8 +29,8 @@ rgba(255,255,255,0.12)
 ##### Text
 ```
 rgba(0,0,0,1)
-rgba(0,0,0,.7)
-rgba(0,0,0,.5)
+rgba(0,0,0,0.7)
+rgba(0,0,0,0.5)
 ```
 
 ##### Divider
@@ -48,5 +48,5 @@ box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 
 #### Transition
 ```Css
-transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+transition: all 0.3s cubic-bezier(0.25,0.8,0.25,1);
 ```
