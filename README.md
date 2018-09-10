@@ -34,8 +34,9 @@ rgba(0,0,0,.5)
 ```
 
 ##### Divider
-- rgba(0,0,0,0.12)
-
+```
+rgba(0,0,0,0.12)
+```
 ### Shadow
 ```Css
 box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
